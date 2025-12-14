@@ -251,9 +251,7 @@ We welcome contributions! Please feel free to submit issues and enhancement requ
 ### **Developed by Mbuthia Peter**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Mbuthia-FF6B6B?style=for-the-badge)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/
-peter-mbuthia-1818Pixel
-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/peter-mbuthia-14a1503a0/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/mbuthiapeter908-pixel)
 
 </div>
